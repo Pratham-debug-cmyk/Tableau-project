@@ -50,7 +50,7 @@ An interactive Tableau dashboard analyzing global fuel price fluctuations (Petro
 
 \* \*\*Data Manipulation & Analysis:\*\* Python (\`pandas\`)
 
-\* \*\*Data Source:\*\* \`global\_fuel\_prices\_Dataset.csv\`
+\* \*\*Data Source:\*\* \`athelete\_events.csv\`
 
 \---
 
@@ -60,4 +60,4 @@ An interactive Tableau dashboard analyzing global fuel price fluctuations (Petro
 
 \`\`\`bash
 
-git clone \[https://github.com/Naitik-J2369/global-fuel-prices-tableau.git\](https://github.com/Naitik-J2369/global-fuel-prices-tableau.git)
+git clone \[https://github.com/Pratham-debug-cmyk/Tableau-project.git](https://github.com/Pratham-debug-cmyk/Tableau-project.git)
